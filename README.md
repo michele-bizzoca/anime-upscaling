@@ -1,6 +1,6 @@
 <h1 align="center">
 A Workflow for Extreme Anime Upscaling<br>
-and an Example of 170× Resolution Increase
+with an Example of 170× Resolution Increase
 </h1>
 
 <p align="center">
