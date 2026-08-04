@@ -6,9 +6,9 @@ For example, an enthusiast creates an image and publishes it on a platform. The 
 
 What you downloaded and its original version are separated by information loss (due to downscaling) a false perception of what the downscaled size is (due to upscaling) and 4 layers of artifacts (2 due to down/up scaling, and 2 due to JPG compression).
 
-While it is impossible to recover the original version from the final, nowadays it is possible to get a could-be original version, namely a picture of the same size and detail level of the original which, when downscaled, turns into the picture you downloaded. This is possible thanks to artificial intelligence models.
+While it is impossible to reconstruct the original version from the final, nowadays it is possible to get a could-be original version, namely a picture of the same size and detail level of the original which, when downscaled, turns into the picture you downloaded. This is possible thanks to artificial intelligence models.
 
-The following article presents a general and effective workflow for extreme restoration of anime images, with an example of 170x resolution increase. It can be executed with free and simple-to-use tools, such as publicly available AI models (such as Real ESRGAN ones), an AI model runner (such as Upscayl) and a traditional image editor (such as GIMP):
+The following article presents a general and effective workflow for extreme restoration of anime images, with an example of 170x resolution increase. It can be executed with free and simple-to-use tools, such as publicly available AI models (e.g. Real ESRGAN ones), an AI model runner (e.g. Upscayl) and a traditional image editor (e.g. GIMP):
 
 <p align="center">📖 <a href=https://michele-bizzoca.github.io/anime-upscaling/><strong>Go to the Article</strong></a>
 <p>
