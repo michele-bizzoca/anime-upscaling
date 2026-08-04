@@ -8,10 +8,10 @@ Have you ever thought how an anime image's lifecycle can impact its quality?
 
 
 
-Example - An enthusiast creates an image and publishes it on a platform. The platform requires downscaling and conversion to JPG. The image travels across the WWW, until someone uses it on their own website after upscaling and, again, export to JPG. Finally, you see the image, and download it.
+For example, an enthusiast creates an image and publishes it on a platform. The platform requires downscaling and conversion to JPG. The image travels across the WWW, until someone uses it on their own website, prior upscaling and, again, export to JPG. Finally, you see the image, and download it.
 
 
-What you downloaded and its original version are separated by information loss, due to downscaling, a false perception of what the downscaled size is, due to upscaling, and 4 layers of artifacts, due todownscaling, upscaling and the 2 JPG compressions.
+What you downloaded and its original version are separated by information loss (due to downscaling) a false perception of what the downscaled size is (due to upscaling) and 4 layers of artifacts (2 due to down/up scaling, and 2 due to JPG compression).
 
 
 
